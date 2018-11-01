@@ -42,6 +42,11 @@ set copyindent            " copy the previous indentation on autoindenting
 
 This will make the default spell language to English.
 
+```vim
+set spelllang=en
+```
+
+```vim
 "" Enable hidden buffers
 set hidden
 ```
